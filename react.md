@@ -5,7 +5,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. Correctable True/False: Mark the following TRUE or FALSE. If FALSE, correct the statement to be TRUE.
 
-- React is a modern, efficient answer to complex UI applications (true/false)
+- React is a modern, efficient answer to complex UI applications (true/false)- TRUE
 - React will only render on the server using Node.js (true/false)
 - React is a full stack framework for modern web applications (true/false)
 - React is a flexible library that plays the role of V in an MVC framework (true/false)
@@ -16,9 +16,9 @@ Answer the following questions. First, without external resources. Challenge you
 
 2. What are "smart" and "dumb" components? Explain the difference and also add why we bother to make the distinction between them.
 
-  Your answer:
+  Your answer:smart components manage their own state while dumb components do not.
 
-  Researched answer:
+  Researched answer:Smart components are app level components that perform functions and manage data while dumb components focus solely on the UI.
 
 
 
@@ -26,18 +26,18 @@ Answer the following questions. First, without external resources. Challenge you
 
   Your answer:
 
-  Researched answer:
+  Researched answer: yarn add is used when you want to use another package, you first need to add it to your dependencies.
 
 
 
 4. What is the difference between component state and props? Your answer should include a short explanation of both.
 
-  Your answer:
+  Your answer: state exist and is changed within its own component and props are passed to it children components.   
 
-  Researched answer:
+  Researched answer: props are variables passed to it by its parent component. State on the other hand is still variables, but directly initialized and managed by the component.
 
 
 
 5. How would you explain state to a friend who doesn't know code?
 
-  Your answer:
+  Your answer: state is the state of something befor your alter it.
